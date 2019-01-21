@@ -41,4 +41,6 @@ Fila2A|Fila2B|Fila2C
 
 [Novocap](https://www.novocap.com)
 
+> Referencia a otro Documento
 
+[Descripcion entre corchetes](DocumentoReferencia.md)
