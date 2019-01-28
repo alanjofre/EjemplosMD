@@ -45,6 +45,9 @@ Fila2A|Fila2B|Fila2C
 
 [Descripcion entre corchetes](DocumentoReferencia.md)
 
+
+>Alineación de columnas. 
+
 | Syntax      | Description | Test Text     |
 | ---:        | ----:       |    :---:      |
 | Header      | Title       | Here's this   |
