@@ -44,3 +44,8 @@ Fila2A|Fila2B|Fila2C
 > Referencia a otro Documento
 
 [Descripcion entre corchetes](DocumentoReferencia.md)
+
+| Syntax      | Description | Test Text     |
+| ---:        | ----:       |    :---:      |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
